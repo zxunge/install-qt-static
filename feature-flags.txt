@@ -13,3 +13,5 @@
 -no-feature-assistant
 -no-feature-pixeltool
 -no-icu
+-nomake examples
+-nomake tests
