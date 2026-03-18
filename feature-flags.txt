@@ -3,7 +3,6 @@
 -release
 -static
 -optimize-size
--no-feature-windeployqt
 -no-feature-macdeployqt
 -no-feature-androiddeployqt
 -no-feature-valgrind
@@ -13,3 +12,4 @@
 -no-feature-designer
 -no-feature-assistant
 -no-feature-pixeltool
+-no-icu
